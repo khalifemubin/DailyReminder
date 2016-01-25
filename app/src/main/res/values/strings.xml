@@ -1,0 +1,32 @@
+<resources>
+    <string name="app_name">Daily Reminder</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="text_add">Add</string>
+
+    <string name="action_add_reminder">Add Diary Entry</string>
+    <!--<string name="action_delete_reminder">Delete</string>-->
+    <string name="title_activity_add_reminder">Add Diary Entry</string>
+
+    <string name="action_set_reminder_time">Set Time</string>
+    <string name="title_activity_time_preference">Save Time Preference</string>
+
+    <string name="cancel">Cancel</string>
+    <string name="delete">Delete</string>
+
+    <string name="application_exit">Exit</string>
+    <string name="txtPrefDescription">Please select the time as per your convenience to remind you daily</string>
+
+    <string name="general_save">Save</string>
+    <string name="lblAddEntryHint">Save the event that happened today.</string>
+    <string name="lblTitleEntry">Title :</string>
+    <string name="hintTitleAddEntry">Enter the Title for entry</string>
+    <string name="lblDescriptionEntry">Description :</string>
+    <string name="hintDescriptionEntry">Enter the detailed description of the event</string>
+    <string name="lblEntryRelevance">Relevance/Importance :</string>
+
+    <string name="txtGeneral_GoBack">Back</string>
+
+</resources>
